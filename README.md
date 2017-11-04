@@ -22,7 +22,7 @@ Use this guide. Attributions are appreciated.
 
 ### Copyright
 
-Copyright (c) 2017-2016 [Jorge Villarreal](http://jorgevm.com)
+Copyright (c) 2017 [Jorge Villarreal](http://jorgevm.com)
 
 ### (The MIT License)
 Permission is hereby granted, free of charge, to any person obtaining
