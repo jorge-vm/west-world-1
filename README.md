@@ -1,7 +1,7 @@
 # West World (First exercise) 
 
 ## Textbook Author Endorsed
-Special thanks to Mat Buckland, author of the book Programming game AI by example which originally proposes this excercise in C++.
+Special thanks to Mat Buckland, author of the book Programming game AI by example which originally presents this exercise in C++.
 
 ## Purpose
 Use this CSharp console application project to jumpstart your Unity game development.
@@ -18,7 +18,7 @@ Open an issue first to discuss potential changes/additions. If you have question
 
 ## License
 
-_tldr; Use this guide. Attributions are appreciated._
+Use this guide. Attributions are appreciated.
 
 ### Copyright
 
@@ -43,5 +43,3 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-**[Back to top](#angular-style-guide)**
